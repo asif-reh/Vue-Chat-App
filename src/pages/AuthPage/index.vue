@@ -78,10 +78,10 @@
   
   .heading {
     position: absolute;
-    top: 100px;
+    top: 50px;
     font-size: 2.5rem;
     margin-bottom: 2rem;
-    color: #ffffff;
+    color: #502d2d;
     text-align: center;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
   }
