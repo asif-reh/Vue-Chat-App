@@ -78,7 +78,7 @@
   
   .heading {
     position: absolute;
-    top: 50px;
+    top: 100px;
     font-size: 2.5rem;
     margin-bottom: 2rem;
     color: #ffffff;
